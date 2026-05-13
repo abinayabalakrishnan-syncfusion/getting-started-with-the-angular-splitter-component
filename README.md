@@ -1,6 +1,5 @@
 # Getting Started with the Angular Splitter Component
 
-**Repository Description**  
 This repository contains a quick‑start Angular sample that demonstrates how to create and configure the Syncfusion Angular Splitter component within an Angular application.
 
 A quick‑start project that helps you create and configure the Syncfusion Angular Splitter component. This project includes example code to configure core features such as resizing, collapsing, and expanding splitter panes.
